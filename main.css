@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .mobile_header {
@@ -147,10 +147,10 @@ body {
     margin-bottom: 5px;
 }
 
-.flex_footer li a {
+.flex_footer li a 
     padding: 5px;
     text-decoration: underline;
-    font-family: "mr-eaves-xl-modern", sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: 300;
     color: black;
     font-size: 18pt;
@@ -261,7 +261,8 @@ h3 {
     }
     
     .mobile_footer .mobile_foot_container {
-        font-family: "mr-eaves-xl-modern", sans-serif;
+        font-family: Times New Roman", Times, serif;
+}
         margin-bottom: 20px;
         text-align: center;
     }
